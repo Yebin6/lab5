@@ -1,0 +1,1 @@
+Name: Yebin Shin, Written: 10.2.24, Updated: 10.9.24, Library: <msp430.h> Using the code, the system should be able to detect motion, light, temperature, and gas leakage. It lights up when motion is detected, the ambient light to turn the porch light on, temperature sensor to determine whether cooler is needed, and lights up when there is gas leakage. 
